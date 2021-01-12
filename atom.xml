@@ -44,19 +44,6 @@
   </entry>
   
   <entry>
-    <title>my-first-blog</title>
-    <link href="http://example.com/2020/12/31/my-first-blog/"/>
-    <id>http://example.com/2020/12/31/my-first-blog/</id>
-    <published>2020-12-31T10:43:23.000Z</published>
-    <updated>2020-12-31T10:43:23.563Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://example.com/2020/12/31/hello-world/"/>
     <id>http://example.com/2020/12/31/hello-world/</id>
